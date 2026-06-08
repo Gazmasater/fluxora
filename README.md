@@ -2,6 +2,18 @@ npm run dev
 
 
 
+az358@gaz358-BOD-WXX9:~/myprog/fluxora-new/fluxora-new$ git commit -m "add polit"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+
+
+
+
+
 uxt 4.4.4 (with Nitro 2.13.4, Vite 7.3.2 and Vue 3.5.34)
                                                                                                                                                                1:48:40 AM
   ➜ Local:    http://localhost:3000/
